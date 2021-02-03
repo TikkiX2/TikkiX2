@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋, TikkiX2 Here!
+#### Android Dev & __*SynthOS*__ Founder
+I am in charge of __*SynthOS*__, a Custom ROM with a lot to customize, I also have some *personal projects*.
 
-- 💻 I’m currently working on my SynthOS
-- 💬 Ask me about anything on my telegram: @TikkiX2
-- 🎧 I’m currently produce music and upload it to Soundcloud: TikkiX2
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/TikkiX2)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ko-fi.svg' alt='ko-fi' height='40'>](ko-fi.com/tikkix2)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](soundcloud.com/radstyle-music)  
 <!--
 **TikkiX2/TikkiX2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
